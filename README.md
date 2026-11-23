@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://unipicto.com">
-    <img src="assets/banner.svg" alt="UniPicto: interactive STEM guides, apps and tools" width="100%">
+    <img src="assets/banner.png" alt="UniPicto: interactive STEM guides, apps and tools" width="100%">
   </a>
 </p>
 
