@@ -1,26 +1,30 @@
 <p align="center">
   <a href="https://unipicto.com">
-    <img src="assets/banner.svg" alt="UniPicto: interactive guides to how technology works" width="100%">
+    <img src="assets/banner.svg" alt="UniPicto: interactive STEM guides, apps and tools" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <b>Free, interactive guides that explain how technology works, in your browser.</b><br>
-  Scroll, drag and change the values: the figures are calculated live, not played back as video.<br>
+  <b>Interactive STEM guides, apps and tools, built to be explored.</b><br>
+  In the guides you scroll, drag and change the values, and the figures are calculated live, not played back as video.<br>
   You can read each guide at a beginner, practitioner or specialist level.
 </p>
 
 <p align="center">
   <a href="https://ai-lineage.unipicto.com/"><img src="https://img.shields.io/badge/AI_Lineage-open-38bdf8?style=flat-square" alt="AI Lineage"></a>
-  <a href="https://silicon-odyssey.unipicto.com/"><img src="https://img.shields.io/badge/Silicon_Odyssey-open-f59e0b?style=flat-square" alt="Silicon Odyssey"></a>
-  <a href="https://fem.unipicto.com/"><img src="https://img.shields.io/badge/Element_by_Element-open-34d399?style=flat-square" alt="Element by Element"></a>
-  <a href="https://spectrum-atlas.unipicto.com/"><img src="https://img.shields.io/badge/Spectrum_Atlas-open-a855f7?style=flat-square" alt="Spectrum Atlas"></a>
-  <a href="https://github.com/marketplace/actions/appaudit-ai-agent-add-on-scan"><img src="https://img.shields.io/badge/appaudit-GitHub_Marketplace-2f81f7?style=flat-square&logo=github" alt="appaudit on GitHub Marketplace"></a>
+  <a href="https://silicon-odyssey.unipicto.com/"><img src="https://img.shields.io/badge/Silicon_Odyssey-open-f5b20b?style=flat-square" alt="Silicon Odyssey"></a>
+  <a href="https://fem.unipicto.com/"><img src="https://img.shields.io/badge/Element_by_Element-open-a3e635?style=flat-square" alt="Element by Element"></a>
+  <a href="https://spectrum-atlas.unipicto.com/"><img src="https://img.shields.io/badge/Spectrum_Atlas-open-a78bfa?style=flat-square" alt="Spectrum Atlas"></a>
+  <a href="https://matter.unipicto.com/"><img src="https://img.shields.io/badge/Matter_that_Matters-open-fb7185?style=flat-square" alt="Matter that Matters"></a>
+  <br>
+  <a href="https://renuvocell.unipicto.com/"><img src="https://img.shields.io/badge/RenuvoCell-open-2dd4bf?style=flat-square" alt="RenuvoCell"></a>
+  <a href="https://r-e.unipicto.com/"><img src="https://img.shields.io/badge/3D_House_Tour-open-fb923c?style=flat-square" alt="3D House Tour"></a>
+  <a href="https://github.com/marketplace/actions/appaudit-ai-agent-add-on-scan"><img src="https://img.shields.io/badge/appaudit-GitHub_Marketplace-3b82f6?style=flat-square&logo=github" alt="appaudit on GitHub Marketplace"></a>
 </p>
 
 ---
 
-## 🧭 Interactive guides
+## 🧭 Interactive STEM guides
 
 <table>
 <tr>
@@ -88,6 +92,59 @@ The whole spectrum as one wave that you can scroll, tap and play with.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ⚛️ [Matter that Matters](https://matter.unipicto.com/)
+**Particle physics lab in your browser**
+
+Matter at every temperature, from absolute zero to quark soup.
+
+**[→ Open Matter that Matters](https://matter.unipicto.com/)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📱 Apps and projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⏱️ [RenuvoCell](https://renuvocell.unipicto.com/)
+**Fasting tracker app with safety built in**
+
+A phone app built around a fasting clock you can read at a glance.
+
+- Fasting clock with stage markers and a countdown to your goal
+- Maximum fast length set by a health questionnaire
+- Glucose and ketone logging, with a glucose-ketone index
+- Data stays on your device by default; cloud sync is optional
+- Available in 10 languages
+
+<sub>A wellness tracking tool, not a medical device. For adults aged 18 and over.</sub>
+
+**[→ Open RenuvoCell](https://renuvocell.unipicto.com/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏡 [3D House Tour](https://r-e.unipicto.com/)
+**A family house you can walk through in 3D**
+
+Scroll in through the front door and walk from room to room.
+
+- Change the facade
+- Change the furnishing style
+- Change the lighting
+
+**[→ Open the 3D House Tour](https://r-e.unipicto.com/)**
+
+</td>
+</tr>
 </table>
 
 ---
@@ -124,7 +181,7 @@ Runs in Claude Code, Cowork and claude.ai, and can also be used with Codex, Gemi
 |---|---|
 | **Interactive, not video** | You change the inputs and the result is calculated again in front of you |
 | **One page, several depths** | Each guide has reading levels from curious beginner to specialist |
-| **Nothing to install** | Open the link in any modern browser. No accounts or sign-up |
+| **Nothing to install** | Every guide opens in any modern browser. No accounts or sign-up |
 
 ---
 
